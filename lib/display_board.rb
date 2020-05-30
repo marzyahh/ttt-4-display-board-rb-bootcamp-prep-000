@@ -12,7 +12,7 @@ def display_board(board)
 
 end
 
-board = ["O", "O", "O", "O", "X", "O", "O", "X", "X"]
+board = ["X", "O", "O", "O", "X", "O", "O", "X", "X"]
 def display_board(board)
 
   puts  " #{board[0]} | #{board[1]} | #{board[2]} "
